@@ -2,7 +2,7 @@
 🌿A website for detecting plant leaf diseases and providing treatment suggestions
 
 # Website Link
-
+https://plantaid-preview.vercel.app/
 
  ## Running the code
 
