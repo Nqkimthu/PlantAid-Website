@@ -49,7 +49,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="h-4 w-4" />
-                <span>Ho Chi Minh city, VN</span>
+                <span>Ho Chi Minh City, VN</span>
               </li>
             </ul>
           </div>
